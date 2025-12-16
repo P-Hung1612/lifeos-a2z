@@ -18,7 +18,7 @@ function App() {
           <p className="text-red-600">
             Lỗi kết nối: {(error as any).message}
             <br />
-            <small>Check xem backend có đang chạy port 5000 không nhé!</small>
+            <small>Check xem backend có đang chạy port 5000 không nha!</small>
           </p>
         )}
 
